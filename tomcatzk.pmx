@@ -1,0 +1,11 @@
+---
+name: tomcatzk
+description: 'Tomcat + ZK '
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: jplock_zookeeper_latest
+  source: jplock/zookeeper:latest
+  type: Default
+  command: docker stop
